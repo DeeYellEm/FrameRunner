@@ -13,12 +13,12 @@ Python version: 3.12.1
 Developed on Mac with the intention of taking it to Raspberry Pi/Python
 
 Current Modules:
-example and example2 : Just dummy modules used during testing
-balls : Four beachballs, random rotation and velocity, bouncing off each other and the walls
-flakes : A bunch of randomly sized flakes of snow falling.  Has a basic notion of mass and wind direction.
-clock : Very basic time in the lower left corner
-starfield : Adapted from an online example of a basicl starfield whizzing by
-picslide : Uses a bunch of images (created with Midjourney) sliced in to rectangles and dropped from top to bottom.  Over time they will settle in to their lanes and the columns will fill until the pic is complete
+* example and example2 : Just dummy modules used during testing
+* balls : Four beachballs, random rotation and velocity, bouncing off each other and the walls
+* flakes : A bunch of randomly sized flakes of snow falling.  Has a basic notion of mass and wind direction.
+* clock : Very basic time in the lower left corner
+* starfield : Adapted from an online example of a basicl starfield whizzing by
+* picslide : Uses a bunch of images (created with Midjourney) sliced in to rectangles and dropped from top to bottom.  Over time they will settle in to their lanes and the columns will fill until the pic is complete
 
 
 
