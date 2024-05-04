@@ -4,10 +4,10 @@ Goals: I have a 800x600 display mounted to a Raspberry Pi that I acquired.  What
 
 The target language was Python because I don't know it well.  I looked around for a graphics library that was lightweight and landed on Pyglet with some basic testing about how fast the library could render and Pyglet was the easy winner.
 
-Pyglet site: https://pyglet.org/
-Pyglet documentation: https://pyglet.readthedocs.io/en/latest/index.html
-Pyglet github: https://github.com/pyglet/pyglet
-Pyglet version used: v2.10.0
+* Pyglet site: https://pyglet.org/
+* Pyglet documentation: https://pyglet.readthedocs.io/en/latest/index.html
+* Pyglet github: https://github.com/pyglet/pyglet
+* Pyglet version used: v2.10.0
 
 Python version: 3.12.1
 Developed on Mac with the intention of taking it to Raspberry Pi/Python
